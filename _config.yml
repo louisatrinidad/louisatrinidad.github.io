@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://louisatrinidad.github.io
+title: Moonflower
+email: lptrinidad@up.edu.ph
+author: Louisa Trinidad
+description: In which I chronicle my every day misadventures, book + food faves, and attempts at photography.
+paginate: 3
+google_analytics: 
